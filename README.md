@@ -1,5 +1,5 @@
 # javaScript-codes
-Some of the JavaSript codes from javascript algorithm and data structures certification(freecodecamp.org)
+Some of the JavaScript codes from the javascript algorithm and data structures certification(freecodecamp.org)
 
 What is Java Script language?
 JavaScript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities.
